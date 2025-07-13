@@ -1,0 +1,14 @@
+D:\thực hành dao diện buổi 1\quanlythuvien1\quanlythuvien1\bin\Debug\quanlythuvien1.exe.config
+D:\thực hành dao diện buổi 1\quanlythuvien1\quanlythuvien1\bin\Debug\quanlythuvien1.exe
+D:\thực hành dao diện buổi 1\quanlythuvien1\quanlythuvien1\bin\Debug\quanlythuvien1.pdb
+D:\thực hành dao diện buổi 1\quanlythuvien1\quanlythuvien1\obj\Debug\quanlythuvien1.csproj.AssemblyReference.cache
+D:\thực hành dao diện buổi 1\quanlythuvien1\quanlythuvien1\obj\Debug\quanlythuvien1.Form1.resources
+D:\thực hành dao diện buổi 1\quanlythuvien1\quanlythuvien1\obj\Debug\quanlythuvien1.Properties.Resources.resources
+D:\thực hành dao diện buổi 1\quanlythuvien1\quanlythuvien1\obj\Debug\quanlythuvien1.csproj.GenerateResource.cache
+D:\thực hành dao diện buổi 1\quanlythuvien1\quanlythuvien1\obj\Debug\quanlythuvien1.csproj.CoreCompileInputs.cache
+D:\thực hành dao diện buổi 1\quanlythuvien1\quanlythuvien1\obj\Debug\quanlythuvien1.exe
+D:\thực hành dao diện buổi 1\quanlythuvien1\quanlythuvien1\obj\Debug\quanlythuvien1.pdb
+D:\thực hành dao diện buổi 1\quanlythuvien1\quanlythuvien1\bin\Debug\WindowsFormsApp1.exe
+D:\thực hành dao diện buổi 1\quanlythuvien1\quanlythuvien1\bin\Debug\WindowsFormsApp1.pdb
+D:\thực hành dao diện buổi 1\quanlythuvien1\quanlythuvien1\bin\Debug\WindowsFormsApp1.exe.config
+D:\thực hành dao diện buổi 1\quanlythuvien1\quanlythuvien1\obj\Debug\quanlyth.EA34BD44.Up2Date
